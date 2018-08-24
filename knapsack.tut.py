@@ -1,4 +1,4 @@
-## 0/1 knapsack problem
+## 0/1 knapsack problem...
 
 import numpy as np
 
